@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28079560757",
+    "project_id": "blood-donation-b06c1",
+    "storage_bucket": "blood-donation-b06c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28079560757:android:7fa9da4bddf3071920797c",
+        "android_client_info": {
+          "package_name": "com.dreamsofmyparents.bloodfoundation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQlgk5pGfWJfldzgkEciFa-HIsH6a0LS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

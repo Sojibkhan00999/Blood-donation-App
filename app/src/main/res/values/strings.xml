@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blood Foundation</string>
+    <string name="sign_up_now">Sign Up Now</string>
+    <string name="already_registered_sign_in">Already Registered? Sign In</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_your_email_hint">Enter Your Email</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="sign_up_to_continue">Sign Up To Continue</string>
+    <string name="donor_registration">Repro Registration</string>
+    <string name="enter_your_password">Enter Your Password</string>
+</resources>
